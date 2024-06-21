@@ -1,0 +1,10 @@
+{
+    "scripts": {
+        "demo": "node main.js",
+        "seed": "node seed.js"
+    },
+    "type": "module",
+    "dependencies": {
+        "surrealdb.js": "1.0.0-beta.9"
+    }
+}
